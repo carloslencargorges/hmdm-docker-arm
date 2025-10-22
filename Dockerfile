@@ -32,7 +32,7 @@ ENV DOWNLOAD_CREDENTIALS=
 ENV HMDM_URL=https://h-mdm.com/files/hmdm-5.30.3-$HMDM_VARIANT.war
 ENV CLIENT_VERSION=6.14
 
-ENV SQL_HOST=postgresql
+ENV SQL_HOST=t80wsgskoosw80kss8cg0kg0
 ENV SQL_PORT=5432
 ENV SQL_BASE=postgres
 ENV SQL_USER=postgres
